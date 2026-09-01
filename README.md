@@ -5,6 +5,16 @@
 
 ---
 
+## 📥 Download & Installation
+
+1. Go to the **Releases** section on the right side of this repository.
+2. Download the version you prefer:
+   - **ClipEdit Setup (`ClipEdit.1.4.3.Setup.exe`)**: Standard Windows installer. Adds desktop and right-click shortcuts automatically.
+   - **ClipEdit Portable (`ClipEdit.1.4.3.Portable.exe`)**: No installation needed. Run it directly from any folder or USB drive.
+3. Open and start clipping!
+
+---
+
 ## 💡 Why ClipEdit?
 
 Have you ever saved a funny or cool gaming moment, and just wanted to share the best 10 seconds with friends on Discord or elsewhere, but:
@@ -78,16 +88,6 @@ Everyone downloads the same lightweight app. No separate downloads or re-install
 | **`Ctrl + O`** | Open a new video file |
 | **`Ctrl + ,`** | Open Settings |
 | **`M`** | Mute / Unmute sound |
-
----
-
-## 📥 Download & Installation
-
-1. Go to the **Releases** section on the right side of this repository.
-2. Download the version you prefer:
-   - **ClipEdit Setup (`ClipEdit.1.4.3.Setup.exe`)**: Standard Windows installer. Adds desktop and right-click shortcuts automatically.
-   - **ClipEdit Portable (`ClipEdit.1.4.3.Portable.exe`)**: No installation needed. Run it directly from any folder or USB drive.
-3. Open and start clipping!
 
 ---
 
