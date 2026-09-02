@@ -98,7 +98,7 @@ Everyone downloads the same lightweight app. No separate downloads or re-install
 
 ## ✨ ClipEdit Showcase:
 
-<img width="280" height="542" alt="showcase1" src="https://github.com/user-attachments/assets/2083c975-969a-4f39-aff5-5bfbbb4356a2" />
+<img width="1920" height="1080" alt="clipeditshowcase1" src="https://github.com/user-attachments/assets/951a5e12-0d76-407e-8385-7f7349c03b3d" />
 
 <img width="1379" height="839" alt="showcase0" src="https://github.com/user-attachments/assets/65353f22-9598-4f6c-9b62-9eb3c1110b7e" />
 
