@@ -3,6 +3,8 @@
 > **Super-fast, easy video cutter made for Windows 11 & Windows 10.**  
 > Cut, trim, and share your gaming clips in seconds with **zero quality loss**.
 
+<img width="1920" height="1080" alt="clipeditshowcase" src="https://github.com/user-attachments/assets/9dda08cd-f2cd-440f-a918-8fd03027f756" />
+
 ---
 
 ## 📥 Download & Installation
