@@ -98,9 +98,6 @@ Everyone downloads the same lightweight app. No separate downloads or re-install
 
 ## ✨ ClipEdit Showcase:
 
-[![Buy Pro Lifetime](https://img.shields.io/badge/Stripe-Buy%20Pro%20($5)-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/bJe14o6xq7aq2At89r1RC00)
-[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20the%20Dev-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/unsever)
-
 <img width="1920" height="1080" alt="clipeditshowcase1" src="https://github.com/user-attachments/assets/951a5e12-0d76-407e-8385-7f7349c03b3d" />
 
 <img width="1435" height="882" alt="showcase2" src="https://github.com/user-attachments/assets/49b19d2b-84b4-4c5f-884d-a659f5063370" />
