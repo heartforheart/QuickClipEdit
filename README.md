@@ -100,8 +100,6 @@ Everyone downloads the same lightweight app. No separate downloads or re-install
 
 <img width="1920" height="1080" alt="clipeditshowcase1" src="https://github.com/user-attachments/assets/951a5e12-0d76-407e-8385-7f7349c03b3d" />
 
-<img width="1379" height="839" alt="showcase0" src="https://github.com/user-attachments/assets/65353f22-9598-4f6c-9b62-9eb3c1110b7e" />
-
 <img width="1435" height="882" alt="showcase2" src="https://github.com/user-attachments/assets/49b19d2b-84b4-4c5f-884d-a659f5063370" />
 
 <img width="1439" height="877" alt="showcase2 2" src="https://github.com/user-attachments/assets/c30e7ee8-1f02-46c2-bf29-3ae6034b6893" />
