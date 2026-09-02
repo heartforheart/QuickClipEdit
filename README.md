@@ -61,10 +61,10 @@ Everyone downloads the same lightweight app. No separate downloads or re-install
 - 👾 **Animated GIF Export (with Flawless Loop)**: Turn your video clips into smooth, high-quality GIFs for Discord & Reddit with optional seamless ping-pong looping.
 - 🛡️ **Permanent Lifetime License**: Only $5 one-time, zero monthly subscriptions.
 
+---
+
 [![Buy Pro Lifetime](https://img.shields.io/badge/Stripe-Buy%20Pro%20($5)-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/bJe14o6xq7aq2At89r1RC00)
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20the%20Dev-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/unsever)
-
----
 
 ## ⌨️ Keyboard Shortcuts
 
