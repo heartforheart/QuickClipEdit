@@ -56,7 +56,7 @@ Everyone downloads the same lightweight app. No separate downloads or re-install
 ### 💎 Pro Mode (One-Time Lifetime Unlock)
 - 🎞️ **Multi-Clip Batch Loading**: Drop and load multiple videos simultaneously in a visual clip tray with instant switching.
 - 🎬 **Lossless Montage Stitching**: Combine all your selected clips into one seamless highlight video in 1 click.
-- 📦 **2-Panel Batch Review & Per-Clip Naming**: When clicking **"All (X clips)"**, review each clip in an embedded player, navigate with `← Prev` / `Next →`, give each clip its own custom name, and click the sticky **Render All (Enter)** button.
+- 📦 **2-Panel Batch Review & Per-Clip Naming**: When clicking **"All (X clips)"**, review each clip in a video player, navigate with `← Prev` / `Next →`, give each clip its own custom name, and click the **Render All (Enter)** button.
 - 🖼️ **Fill, Crop & Aspect Ratios**: Convert landscape clips to 9:16 Shorts/TikTok, 1:1 square, or 4:5 with intuitive zoom and pan controls.
 - 👾 **Animated GIF Export (with Flawless Loop)**: Turn your video clips into smooth, high-quality GIFs for Discord & Reddit with optional seamless ping-pong looping.
 - 🛡️ **Permanent Lifetime License**: Only $5 one-time, zero monthly subscriptions.
