@@ -11,8 +11,8 @@
 
 1. Go to the **Releases** section on the right side of this repository.
 2. Download the version you prefer:
-   - **ClipEdit Setup (`ClipEdit.1.4.3.Setup.exe`)**: Standard Windows installer. Adds desktop and right-click shortcuts automatically.
-   - **ClipEdit Portable (`ClipEdit.1.4.3.Portable.exe`)**: No installation needed. Run it directly from any folder or USB drive.
+   - **ClipEdit Setup (`ClipEdit.1.4.6.Setup.exe`)**: Standard Windows installer. Adds desktop and right-click shortcuts automatically.
+   - **ClipEdit Portable (`ClipEdit.1.4.6.Portable.exe`)**: No installation needed. Run it directly from any folder or USB drive.
 3. Open and start clipping!
 
 ---
