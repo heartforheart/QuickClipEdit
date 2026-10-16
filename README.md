@@ -13,8 +13,8 @@ No complicated installation, no account needed, and no bloatware. Start clipping
 
 1. Head over to **[Releases](https://github.com/heartforheart/QuickClipEdit/releases)** on the right side of this page.
 2. Download the version that fits your style:
-   - **ClipEdit Setup (`ClipEdit.1.5.0.Setup.exe`)**: *Recommended!* Quick installer. Adds desktop icons and a 1-click **"Quick Clip with ClipEdit"** right-click menu to Windows Explorer.
-   - **ClipEdit Portable (`ClipEdit.1.5.0.Portable.exe`)**: 100% standalone. No installation needed: run it straight from your Downloads folder or any USB thumb drive.
+   - **ClipEdit Setup (`ClipEdit.1.5.1.Setup.exe`)**: *Recommended!* Quick installer. Adds desktop icons and a 1-click **"Quick Clip with ClipEdit"** right-click menu to Windows Explorer.
+   - **ClipEdit Portable (`ClipEdit.1.5.1.Portable.exe`)**: 100% standalone. No installation needed: run it straight from your Downloads folder or any USB thumb drive.
 3. Drag and drop any gameplay recording into ClipEdit, tap **`I`** (Start), tap **`O`** (End), and hit **`Enter`** (Save). Done!
 
 ---
