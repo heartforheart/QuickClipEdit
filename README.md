@@ -140,8 +140,6 @@ When you mark an effect area with **`K`**, tap any number to apply that effect i
 
 ## 💖 Ready to Start Clipping?
 
-Stop wrestling with heavy video editors. Try ClipEdit today: 100% free, lightweight, and private.
-
 👉 **[Download Free on GitHub Releases](https://github.com/heartforheart/QuickClipEdit/releases)**  
 👉 **[Buy Pro Lifetime on Stripe ($5)](https://buy.stripe.com/bJe14o6xq7aq2At89r1RC00)** (Instant key delivery to your email)  
 👉 **[Support on Ko-fi](https://ko-fi.com/unsever)**
