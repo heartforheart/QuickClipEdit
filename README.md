@@ -74,8 +74,6 @@ Love the app and want the full creator workstation? Upgrade once for less than t
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20the%20Dev-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/unsever)
 
 
----
-
 ## ⌨️ Keyboard Shortcuts (Clip Like a Pro)
 
 You can edit, add effects, and export an entire clip completely from your keyboard without touching your mouse:
