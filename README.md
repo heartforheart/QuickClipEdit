@@ -52,6 +52,8 @@ We hate apps that hold your basic clips hostage. Free mode gives you everything 
 - 🖱️ **Windows Right-Click Menu**: Right-click any video file in Windows Explorer -> **"Quick Clip with ClipEdit"**.
 - 🧹 **Zero Junk Auto-Cleaner**: Automatically sweeps temporary cache files on start and exit so your SSD never accumulates bloat.
 - 🎨 **GamerTag Watermark**: Brand your clips with your Twitch or YouTube handle in the corner with custom opacity.
+- 🎨 **Theme Selections**: Customize your workspace aesthetic with built-in color themes to fit your style.
+- 🎧 **Audio-Only Editing with Optional Visualizer**: Trim `.mp3`, `.wav`, `.flac`, `.aac`, and `.ogg` files directly with a real-time beat-sync audio visualizer (toggle on/off anytime with right-click).
 - 🎬 **Plays Every Video**: Handles MP4, MKV, MOV, WEBM, AVI, WMV, FLV, and high-bitrate ShadowPlay recordings smoothly.
 - 🔒 **100% Offline & Private**: Zero accounts, zero tracking, zero ads, and zero watermarks.
 
