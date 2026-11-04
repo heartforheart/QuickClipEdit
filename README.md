@@ -1,7 +1,7 @@
 # ✂️ ClipEdit
 
-> **The simple, instant video cutter built for gamers on Windows 11 & Windows 10.**  
-> Cut, trim, and share your gaming highlights with **zero lag, zero blur, and zero quality loss.**
+> **The simple, instant video & audio cutter built for gamers and everyone on Windows 11 & Windows 10.**  
+> Cut, trim, and share your gaming or any highlights with **zero lag, zero blur, and zero quality loss.**
 
 <img width="1920" height="1080" alt="show1" src="https://github.com/user-attachments/assets/94c826f3-eb68-49c3-b632-480aaa621e89" />
 
@@ -21,7 +21,7 @@ No complicated installation, no account needed, and no bloatware. Start clipping
 
 ## 💡 Why ClipEdit?
 
-You just pulled off an incredible clutch in any game you play, or your squad had a hilarious physics glitch. You just want to share the highlight with your favorite people on Discord right now.
+You just pulled off an incredible clutch in any game you play or had a funny moment happen: You just want to quickly share the highlight with your favorite people on Discord right now.
 
 Here is what usually happens instead:
 - **Heavy video editors** (Premiere, DaVinci) take forever to open and look like an airplane cockpit.
@@ -65,7 +65,7 @@ Love the app and want the full creator workstation? Upgrade once for less than t
 - 📦 **Batch Review & Custom Naming**: Preview each clip side-by-side, give each a custom title, and export all of them with a single tap of `Enter`.
 - 📱 **1-Click TikTok / Shorts Crop**: Turn horizontal gameplay into 9:16 vertical or 1:1 square for TikTok, Instagram Reels, and YouTube Shorts with smooth pan and zoom.
 - 👾 **Crisp Looping GIFs**: Turn hilarious moments into lightweight, looping reaction GIFs for Reddit, Discord, and forums (with optional ping-pong bounce loop).
-- 👑 **Lifetime Pro Key**: Pay $5 once on Stripe, receive your activation key in your email in seconds, and unlock Pro forever on your PC.
+- 👑 **Lifetime Pro Key**: Pay $5 once, receive your activation key in your email in seconds, and unlock Pro forever on your PC.
 
 [![Buy Pro Lifetime](https://img.shields.io/badge/Stripe-Buy%20Pro%20($5)-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/bJe14o6xq7aq2At89r1RC00)
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20the%20Dev-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/unsever)
@@ -141,5 +141,5 @@ When you mark an effect area with **`K`**, tap any number to apply that effect i
 ## 💖 Ready to Start Clipping?
 
 👉 **[Download Free on GitHub Releases](https://github.com/heartforheart/QuickClipEdit/releases)**  
-👉 **[Buy Pro Lifetime on Stripe ($5)](https://buy.stripe.com/bJe14o6xq7aq2At89r1RC00)** (Instant key delivery to your email)  
+👉 **[Buy Pro Lifetime ($5)](https://buy.stripe.com/bJe14o6xq7aq2At89r1RC00)** (Instant key delivery to your email)  
 👉 **[Support on Ko-fi](https://ko-fi.com/unsever)**
